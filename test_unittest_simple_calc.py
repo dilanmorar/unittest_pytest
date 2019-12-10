@@ -1,6 +1,5 @@
 import unittest
 from simple_calc import simple_calc
-
 class Calctest(unittest.TestCase):
     calc = simple_calc()
 
